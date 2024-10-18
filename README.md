@@ -4,10 +4,10 @@
 Servlet is a Java class used to create dynamic web applications. It runs on a server and handles HTTP requests and responses between the client (browser) and the server. Servlets are a core part of Java’s web development stack, and they make it easy to manage and process data sent by users.
 
 
-## Project Overview
+## Project Overview 🎯
 In this project, I built a simple CRUD (Create, Read, Update, Delete) application using Java Servlets. It was a great way to learn how to connect with a database and manage data through basic web operations. I explored how HTTP requests and responses work, and I got hands-on experience with JDBC and configuring servlets in a web project.
 
- ## Features
+ ## Features 🚀
 Create Operation
 
 Users can add new entries to the database through a form.
@@ -25,7 +25,7 @@ Simple UI with HTML & JSP
 Basic user interface to interact with the application using forms and tables.
 
 
-## Implemented Functionalities
+## Implemented Functionalities 🛠
 1️⃣ Database Connection with JDBC: 
 Connected to a database using JDBC to manage the CRUD operations.
 
